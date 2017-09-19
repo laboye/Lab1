@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 25px;
+    margin-right: 25px;
+    padding-left: 15px;
+}
+header {
+    background-color: black;
+    color: lightgray;
+    padding: 20px
+}
+p {
+    padding-left: 15px;
+}
+.heading {
+    color: rgb(126, 238, 241);
+    font-family: 'Lobster', cursive;
+
+}
+section {
+    background-color: lightgray;
+    padding: 5px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+table {
+    width: 400px;
+    border-collapse: collapse;
+    margin-left: 20px;
+}
+th {
+    text-align: center;
+    border-bottom: 1px solid blue;
+    padding: 5px;
+}
+.item {
+    text-align: center;
+    padding: 5px;
+}
+td {
+    text-align: right;
+    padding: 5px;
+}
+ul {
+    margin-left: 20px;
+}
+hr {
+    width: 97%;
+    color: lightgray;
+}
+.indent {
+    margin-left: 20px;
+}
